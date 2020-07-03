@@ -1,7 +1,4 @@
-Student Details
-----------------------------------
-ARUN KUNNUMPURAM THOMAS
-STUDENT ID :801027386
+
 
 Programming Language details
 -----------------------------------
